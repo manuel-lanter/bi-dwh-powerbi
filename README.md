@@ -66,3 +66,40 @@ Das Ziel des Projekts bestand darin, operative Daten aus CRM-, Finanz- und Produ
 - Fokus: Architektur, Datenmodellierung und BI-Prozesse
 - Aus Gründen der Übersichtlichkeit werden nur ausgewählte SQL-Statements (je Phase) als Screenshot dokumentiert.
 
+---
+
+# Projektvisualisierungen
+
+## Entity-Relationship-Diagramm
+
+![ERD](06_documentation/erd_martin_notation.png)
+
+---
+
+## Star Schema
+
+![Star Schema](06_documentation/star_schema.png)
+
+---
+
+## Power BI Dashboard
+
+![Dashboard](05_powerbi_dashboard/powerbi_dashboard_overview.png)
+
+---
+
+## Beispiel: Bulk-Insert in die Staging Area
+
+![Bulk Insert](06_documentation/sql_staging_bulk_insert.png)
+
+---
+
+## Beispiel: Transformations- und Ladeprozess
+
+![Transformation](06_documentation/sql_fact_sales_transformation.png)
+
+---
+
+## Simulierter TL-Prozess mittels Batch-Datei
+
+![TL Process](06_documentation/run_tl_process_bat.png)
