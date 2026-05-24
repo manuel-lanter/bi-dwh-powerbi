@@ -64,4 +64,5 @@ Das Ziel des Projekts bestand darin, operative Daten aus CRM-, Finanz- und Produ
 - Die verwendeten Daten basieren auf KI-generierten Testdaten.
 - Das Projekt wurde als Proof of Concept im Rahmen des Studiums umgesetzt.
 - Fokus: Architektur, Datenmodellierung und BI-Prozesse
+- Aus Gründen der Übersichtlichkeit werden nur ausgewählte SQL-Statements (je Phase) als Screenshot dokumentiert.
 
