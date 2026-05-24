@@ -1,0 +1,101 @@
+﻿product_id,category,subcategory,product_name,material,color,style,list_price_eur,gross_margin_pct,launch_date,lifecycle_status,shipping_class,return_risk
+P001,Wohnzimmer,TV-Lowboard,Skandinavisch TV-Lowboard 02,Eiche furniert,Grau,Landhaus,582,0.32,2024-05-02,aktiv,Spedition,niedrig
+P002,Wohnzimmer,TV-Lowboard,Landhaus TV-Lowboard 03,Metall,Weiß,Minimalistisch,278,0.45,2025-03-06,aktiv,Sperrgut,mittel
+P003,Wohnzimmer,Sofa,Industrial Sofa 04,Bouclé,Grün,Skandinavisch,777,0.39,2024-04-07,aktiv,Paket,niedrig
+P004,Wohnzimmer,Couchtisch,Minimalistisch Couchtisch 05,Bouclé,Walnuss,Modern,692,0.46,2024-03-10,aktiv,Paket,niedrig
+P005,Wohnzimmer,Regal,Minimalistisch Regal 06,Eiche furniert,Grau,Landhaus,561,0.45,2023-09-06,aktiv,Spedition,niedrig
+P006,Wohnzimmer,Sideboard,Minimalistisch Sideboard 07,Stoff,Weiß,Minimalistisch,1541,0.47,2025-08-25,Neu,Spedition,mittel
+P007,Wohnzimmer,Sideboard,Modern Sideboard 08,Massivholz,Grün,Modern,375,0.47,2025-01-03,Neu,Paket,mittel
+P008,Wohnzimmer,Regal,Modern Regal 09,Mikrofaser,Walnuss,Skandinavisch,665,0.42,2024-09-02,Auslaufmodell,Paket,niedrig
+P009,Wohnzimmer,Sideboard,Landhaus Sideboard 10,Massivholz,Eiche,Landhaus,1071,0.46,2023-10-27,aktiv,Spedition,niedrig
+P010,Wohnzimmer,Couchtisch,Landhaus Couchtisch 11,Eiche furniert,Anthrazit,Landhaus,209,0.41,2023-07-31,aktiv,Paket,mittel
+P011,Wohnzimmer,Couchtisch,Skandinavisch Couchtisch 12,Massivholz,Eiche,Skandinavisch,207,0.31,2025-10-24,Neu,Spedition,hoch
+P012,Wohnzimmer,Sideboard,Modern Sideboard 13,Mikrofaser,Anthrazit,Industrial,1386,0.33,2024-07-19,aktiv,Sperrgut,mittel
+P013,Wohnzimmer,Sofa,Modern Sofa 14,Massivholz,Schwarz,Modern,1811,0.38,2023-07-04,aktiv,Spedition,mittel
+P014,Wohnzimmer,Sofa,Modern Sofa 15,MDF,Grau,Landhaus,2194,0.37,2025-09-27,Auslaufmodell,Spedition,hoch
+P015,Wohnzimmer,Couchtisch,Industrial Couchtisch 16,Eiche furniert,Blau,Industrial,557,0.45,2024-10-07,aktiv,Sperrgut,mittel
+P016,Wohnzimmer,Sideboard,Minimalistisch Sideboard 17,Bouclé,Anthrazit,Industrial,1691,0.38,2025-02-14,Auslaufmodell,Spedition,mittel
+P017,Wohnzimmer,Sofa,Skandinavisch Sofa 18,Metall,Beige,Modern,1160,0.42,2024-03-10,Auslaufmodell,Spedition,niedrig
+P018,Wohnzimmer,Regal,Minimalistisch Regal 19,Eiche furniert,Schwarz,Industrial,111,0.45,2023-11-26,aktiv,Paket,hoch
+P019,Wohnzimmer,Sofa,Modern Sofa 20,Glas,Grün,Minimalistisch,2400,0.42,2023-01-11,aktiv,Sperrgut,mittel
+P020,Wohnzimmer,Sideboard,Minimalistisch Sideboard 21,Eiche furniert,Anthrazit,Modern,1177,0.44,2023-08-13,aktiv,Sperrgut,mittel
+P021,Schlafzimmer,Bett,Minimalistisch Bett 22,Leder,Schwarz,Minimalistisch,1703,0.44,2023-06-29,aktiv,Paket,hoch
+P022,Schlafzimmer,Matratze,Landhaus Matratze 23,Stoff,Blau,Minimalistisch,395,0.32,2024-10-22,aktiv,Sperrgut,mittel
+P023,Schlafzimmer,Kleiderschrank,Minimalistisch Kleiderschrank 24,MDF,Blau,Skandinavisch,1494,0.4,2025-04-03,aktiv,Paket,mittel
+P024,Schlafzimmer,Nachttisch,Landhaus Nachttisch 25,Stoff,Blau,Minimalistisch,252,0.47,2024-12-24,aktiv,Sperrgut,mittel
+P025,Schlafzimmer,Kleiderschrank,Skandinavisch Kleiderschrank 26,Leder,Blau,Landhaus,822,0.35,2024-08-21,aktiv,Sperrgut,mittel
+P026,Schlafzimmer,Bett,Modern Bett 27,Leder,Grau,Skandinavisch,1381,0.4,2023-01-19,aktiv,Spedition,hoch
+P027,Schlafzimmer,Kommode,Landhaus Kommode 28,MDF,Walnuss,Landhaus,732,0.38,2024-12-29,Neu,Sperrgut,hoch
+P028,Schlafzimmer,Kleiderschrank,Minimalistisch Kleiderschrank 29,MDF,Grau,Modern,1289,0.36,2024-09-16,aktiv,Sperrgut,hoch
+P029,Schlafzimmer,Matratze,Landhaus Matratze 30,Glas,Beige,Industrial,290,0.4,2023-08-14,aktiv,Sperrgut,mittel
+P030,Schlafzimmer,Bett,Skandinavisch Bett 31,Metall,Eiche,Landhaus,1311,0.42,2024-08-25,aktiv,Sperrgut,niedrig
+P031,Schlafzimmer,Nachttisch,Landhaus Nachttisch 32,Massivholz,Grün,Minimalistisch,149,0.31,2023-07-26,Auslaufmodell,Spedition,hoch
+P032,Schlafzimmer,Kleiderschrank,Minimalistisch Kleiderschrank 33,Massivholz,Grün,Modern,909,0.42,2025-05-19,aktiv,Paket,niedrig
+P033,Schlafzimmer,Bett,Landhaus Bett 34,Leder,Anthrazit,Minimalistisch,1885,0.35,2023-06-07,aktiv,Spedition,mittel
+P034,Schlafzimmer,Matratze,Modern Matratze 35,Metall,Schwarz,Minimalistisch,721,0.4,2024-03-12,aktiv,Sperrgut,mittel
+P035,Schlafzimmer,Bett,Minimalistisch Bett 36,Stoff,Beige,Landhaus,1515,0.39,2025-09-08,aktiv,Paket,hoch
+P036,Schlafzimmer,Kommode,Landhaus Kommode 37,Mikrofaser,Walnuss,Industrial,948,0.36,2023-12-11,aktiv,Spedition,hoch
+P037,Schlafzimmer,Kleiderschrank,Minimalistisch Kleiderschrank 38,Glas,Grau,Industrial,1080,0.44,2025-09-03,aktiv,Spedition,mittel
+P038,Schlafzimmer,Kleiderschrank,Modern Kleiderschrank 39,Bouclé,Weiß,Minimalistisch,2136,0.29,2023-02-21,Neu,Paket,mittel
+P039,Schlafzimmer,Kommode,Skandinavisch Kommode 40,Leder,Beige,Skandinavisch,432,0.4,2023-08-28,aktiv,Sperrgut,hoch
+P040,Schlafzimmer,Kleiderschrank,Landhaus Kleiderschrank 41,Metall,Schwarz,Modern,1318,0.38,2023-03-15,aktiv,Paket,niedrig
+P041,Esszimmer,Vitrine,Landhaus Vitrine 42,Bouclé,Walnuss,Industrial,1304,0.33,2025-05-15,Auslaufmodell,Paket,hoch
+P042,Esszimmer,Esstisch,Landhaus Esstisch 43,Metall,Walnuss,Skandinavisch,576,0.47,2024-07-05,aktiv,Paket,mittel
+P043,Esszimmer,Barhocker,Industrial Barhocker 44,Leder,Grün,Skandinavisch,134,0.28,2025-04-25,aktiv,Spedition,mittel
+P044,Esszimmer,Esszimmerstuhl,Landhaus Esszimmerstuhl 45,Metall,Eiche,Modern,245,0.28,2025-06-11,Neu,Paket,hoch
+P045,Esszimmer,Esszimmerstuhl,Modern Esszimmerstuhl 46,Glas,Grau,Skandinavisch,110,0.46,2025-08-10,aktiv,Spedition,mittel
+P046,Esszimmer,Bank,Modern Bank 47,Eiche furniert,Blau,Minimalistisch,256,0.31,2023-02-26,aktiv,Sperrgut,hoch
+P047,Esszimmer,Esstisch,Skandinavisch Esstisch 48,Stoff,Blau,Skandinavisch,1219,0.34,2025-10-11,aktiv,Spedition,mittel
+P048,Esszimmer,Barhocker,Landhaus Barhocker 49,MDF,Anthrazit,Landhaus,202,0.33,2023-02-21,aktiv,Paket,niedrig
+P049,Esszimmer,Barhocker,Landhaus Barhocker 50,Eiche furniert,Walnuss,Minimalistisch,121,0.36,2023-11-11,Auslaufmodell,Spedition,mittel
+P050,Esszimmer,Barhocker,Skandinavisch Barhocker 51,Metall,Grau,Landhaus,198,0.39,2023-10-10,aktiv,Spedition,niedrig
+P051,Esszimmer,Esstisch,Industrial Esstisch 52,MDF,Grau,Skandinavisch,301,0.36,2025-12-10,aktiv,Spedition,hoch
+P052,Esszimmer,Esstisch,Landhaus Esstisch 53,MDF,Grau,Industrial,1137,0.45,2023-03-24,aktiv,Paket,mittel
+P053,Esszimmer,Esstisch,Modern Esstisch 54,Leder,Grau,Modern,1382,0.4,2025-06-19,Neu,Paket,hoch
+P054,Esszimmer,Vitrine,Industrial Vitrine 55,MDF,Beige,Industrial,451,0.46,2024-09-01,aktiv,Sperrgut,mittel
+P055,Esszimmer,Vitrine,Modern Vitrine 56,Mikrofaser,Blau,Landhaus,474,0.48,2023-09-07,aktiv,Sperrgut,niedrig
+P056,Esszimmer,Barhocker,Skandinavisch Barhocker 57,Bouclé,Schwarz,Minimalistisch,165,0.45,2024-03-26,aktiv,Sperrgut,hoch
+P057,Esszimmer,Esstisch,Landhaus Esstisch 58,Glas,Grau,Modern,1182,0.47,2023-03-28,aktiv,Spedition,mittel
+P058,Esszimmer,Bank,Modern Bank 59,Stoff,Anthrazit,Industrial,669,0.45,2025-07-31,Auslaufmodell,Sperrgut,hoch
+P059,Esszimmer,Barhocker,Minimalistisch Barhocker 60,MDF,Anthrazit,Skandinavisch,219,0.28,2023-01-18,Auslaufmodell,Paket,niedrig
+P060,Esszimmer,Esstisch,Industrial Esstisch 61,Glas,Grau,Skandinavisch,1268,0.34,2025-08-14,Auslaufmodell,Paket,mittel
+P061,Büro,Bürostuhl,Minimalistisch Bürostuhl 62,Massivholz,Schwarz,Landhaus,713,0.31,2023-09-30,Neu,Sperrgut,hoch
+P062,Büro,Bürostuhl,Minimalistisch Bürostuhl 63,Eiche furniert,Blau,Minimalistisch,190,0.4,2025-05-15,aktiv,Spedition,mittel
+P063,Büro,Monitorständer,Skandinavisch Monitorständer 64,MDF,Walnuss,Skandinavisch,110,0.41,2025-11-05,aktiv,Spedition,mittel
+P064,Büro,Bürostuhl,Landhaus Bürostuhl 65,Massivholz,Eiche,Minimalistisch,802,0.39,2025-09-29,Neu,Spedition,hoch
+P065,Büro,Regal,Industrial Regal 66,Metall,Grün,Industrial,202,0.25,2023-02-03,aktiv,Paket,mittel
+P066,Büro,Regal,Modern Regal 67,MDF,Eiche,Minimalistisch,212,0.31,2024-04-11,aktiv,Paket,niedrig
+P067,Büro,Regal,Industrial Regal 68,Leder,Anthrazit,Landhaus,450,0.36,2024-10-13,aktiv,Spedition,niedrig
+P068,Büro,Regal,Modern Regal 69,Metall,Eiche,Industrial,540,0.43,2023-08-05,aktiv,Paket,mittel
+P069,Büro,Regal,Landhaus Regal 70,Stoff,Weiß,Industrial,509,0.26,2025-06-20,Auslaufmodell,Sperrgut,mittel
+P070,Büro,Schreibtisch,Minimalistisch Schreibtisch 71,Metall,Schwarz,Skandinavisch,717,0.42,2023-09-30,Auslaufmodell,Sperrgut,mittel
+P071,Büro,Monitorständer,Industrial Monitorständer 72,Stoff,Schwarz,Industrial,49,0.43,2024-09-02,aktiv,Sperrgut,niedrig
+P072,Büro,Regal,Skandinavisch Regal 73,Eiche furniert,Blau,Skandinavisch,466,0.31,2023-03-12,aktiv,Sperrgut,mittel
+P073,Büro,Rollcontainer,Modern Rollcontainer 74,Massivholz,Eiche,Modern,107,0.31,2023-12-28,Auslaufmodell,Sperrgut,niedrig
+P074,Büro,Schreibtisch,Landhaus Schreibtisch 75,Leder,Schwarz,Modern,678,0.27,2024-06-20,Neu,Paket,mittel
+P075,Büro,Regal,Skandinavisch Regal 76,Massivholz,Grün,Landhaus,754,0.35,2025-11-18,aktiv,Paket,hoch
+P076,Büro,Schreibtisch,Landhaus Schreibtisch 77,Glas,Blau,Industrial,651,0.27,2025-01-13,aktiv,Spedition,hoch
+P077,Büro,Regal,Landhaus Regal 78,Bouclé,Blau,Minimalistisch,594,0.44,2023-12-30,Neu,Sperrgut,mittel
+P078,Büro,Bürostuhl,Skandinavisch Bürostuhl 79,Leder,Grün,Skandinavisch,737,0.33,2025-09-22,Auslaufmodell,Spedition,mittel
+P079,Büro,Monitorständer,Industrial Monitorständer 80,Bouclé,Anthrazit,Skandinavisch,132,0.24,2024-05-20,Neu,Spedition,niedrig
+P080,Büro,Regal,Skandinavisch Regal 81,Massivholz,Beige,Skandinavisch,256,0.24,2025-08-14,Neu,Sperrgut,mittel
+P081,Wohnaccessoires,Lampe,Minimalistisch Lampe 82,Metall,Grün,Landhaus,366,0.45,2025-03-31,aktiv,Spedition,mittel
+P082,Wohnaccessoires,Teppich,Landhaus Teppich 83,Bouclé,Grau,Industrial,672,0.52,2025-11-08,aktiv,Paket,hoch
+P083,Wohnaccessoires,Dekokissen,Skandinavisch Dekokissen 84,MDF,Weiß,Modern,72,0.37,2025-11-05,Neu,Paket,mittel
+P084,Wohnaccessoires,Lampe,Landhaus Lampe 85,Metall,Walnuss,Landhaus,73,0.62,2023-06-13,Neu,Paket,mittel
+P085,Wohnaccessoires,Vorhang,Modern Vorhang 86,Glas,Beige,Landhaus,64,0.54,2025-12-06,aktiv,Spedition,mittel
+P086,Wohnaccessoires,Spiegel,Landhaus Spiegel 87,Eiche furniert,Grau,Landhaus,80,0.47,2023-06-21,aktiv,Spedition,mittel
+P087,Wohnaccessoires,Vorhang,Industrial Vorhang 88,Eiche furniert,Weiß,Modern,93,0.53,2025-11-08,aktiv,Paket,niedrig
+P088,Wohnaccessoires,Dekokissen,Minimalistisch Dekokissen 89,Leder,Grün,Landhaus,46,0.5,2025-03-06,aktiv,Sperrgut,hoch
+P089,Wohnaccessoires,Spiegel,Industrial Spiegel 90,Metall,Grau,Skandinavisch,369,0.56,2023-09-08,aktiv,Paket,hoch
+P090,Wohnaccessoires,Teppich,Landhaus Teppich 91,Stoff,Blau,Landhaus,437,0.46,2023-11-04,Auslaufmodell,Spedition,mittel
+P091,Wohnaccessoires,Vorhang,Industrial Vorhang 92,Massivholz,Grau,Modern,69,0.37,2023-04-01,aktiv,Spedition,hoch
+P092,Wohnaccessoires,Lampe,Modern Lampe 93,Metall,Walnuss,Modern,169,0.55,2024-08-18,aktiv,Sperrgut,mittel
+P093,Wohnaccessoires,Spiegel,Modern Spiegel 94,Metall,Weiß,Modern,184,0.59,2025-03-30,aktiv,Paket,mittel
+P094,Wohnaccessoires,Lampe,Skandinavisch Lampe 95,Metall,Blau,Modern,58,0.51,2024-06-03,aktiv,Spedition,hoch
+P095,Wohnaccessoires,Lampe,Industrial Lampe 96,Eiche furniert,Grün,Industrial,331,0.42,2023-05-26,aktiv,Sperrgut,hoch
+P096,Wohnaccessoires,Teppich,Industrial Teppich 97,MDF,Grau,Landhaus,345,0.4,2025-04-12,aktiv,Spedition,niedrig
+P097,Wohnaccessoires,Vorhang,Landhaus Vorhang 98,Massivholz,Grün,Modern,106,0.35,2023-03-06,aktiv,Paket,hoch
+P098,Wohnaccessoires,Vorhang,Skandinavisch Vorhang 99,Stoff,Grün,Modern,110,0.59,2023-12-13,aktiv,Sperrgut,mittel
+P099,Wohnaccessoires,Spiegel,Minimalistisch Spiegel 100,Massivholz,Walnuss,Modern,261,0.47,2023-10-23,aktiv,Sperrgut,mittel
+P100,Wohnaccessoires,Teppich,Minimalistisch Teppich 101,Massivholz,Walnuss,Skandinavisch,598,0.52,2023-02-20,aktiv,Sperrgut,mittel
