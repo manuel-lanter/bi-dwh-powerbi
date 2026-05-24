@@ -72,7 +72,7 @@ Das Ziel des Projekts bestand darin, operative Daten aus CRM-, Finanz- und Produ
 
 ## Entity-Relationship-Diagramm
 
-![ERD](06_documentation/erd_martin_notation.png)
+![Entity-Relationship-Diagramm](06_documentation/entity_relationship_diagramm.png)
 
 ---
 
