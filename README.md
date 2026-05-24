@@ -68,7 +68,7 @@ Das Ziel des Projekts bestand darin, operative Daten aus CRM-, Finanz- und Produ
 
 ---
 
-# Projektvisualisierungen
+# Ausgewählte Projektvisualisierungen
 
 ## Entity-Relationship-Diagramm
 
